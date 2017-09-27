@@ -5,3 +5,8 @@ Add
 병합 - merge
 
 
+git init
+git config --global user.name "상훈"
+git config --global user.email "hsh@naver"
+git add -A
+git commit -m "메세지"
